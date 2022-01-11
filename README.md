@@ -1,6 +1,6 @@
-# Quasar App (quasar_dapp)
+# Vuejs blockchain boot project (quasar_dapp)
 
-A Quasar Framework app
+A Quasar Framework app, Solid, Vuejs
 
 ## Install the dependencies
 ```bash
